@@ -3,3 +3,4 @@
 
 anewvariable = 'greeting'
 greeting = "Hello World!"
+puts greeting
